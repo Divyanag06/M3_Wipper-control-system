@@ -1,19 +1,19 @@
-Integrated circuit NE555 1
-Transistor(NPN) BC548 1
-Diode IN4007 5
-Resistor 1MΩ,10KΩ,1KΩ 3
-Relay 12V 1
-Transformer 230V-12V 1
-Wiper motor 12V DC 1
-Rain sensor Sensor pad 10
-Capacitor (ceramic) 0.1µf 1
-PC board Small size 4
-Wind screen 30 ×20 inches 1
-Windscreen frame(wood) 10× 80inches 1
-Wiper blade Small pieces 10
-Cable 1.5mm2
-60 inches
-Power Switch DC type 1
-Electrolytic capacitor 50V 220µf 1
-[25]
-5. METHODOLOG
+The automated rain wiper system is used to detect rainfall and activate automobile automatic 
+rain wiper without driver interaction.
+The system is developed to mitigate driving distractions 
+and allow drivers to focus on their primary task of driving. 
+The distraction eliminated with 
+the development of this product is the manual adjustment of windshield wipers when driving 
+in precipitation. 
+The few seconds that a driver takes their attention off the road to adjust a 
+knob while driving in poor weather conditions could potentially lead to car accidents.
+The 
+system uses a combination of impedance and rain sensor to detect rain and its intensity. 
+The 
+system contains a controller that takes in the input signals from the sensors and controls the 
+operation of the windshield wipers based on those input signals The aim of this project is to 
+help reduce accidents that happen as a result of the driver intending to clean the windscreen 
+when rain is falling thereby taking the attention of the driver off the road when he or she is 
+switching on and off the wiper. 
+In rainy days we suffer from act of sprinkling of water on 
+front glass of our wheeler. 
